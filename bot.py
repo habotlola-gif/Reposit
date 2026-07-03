@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO)
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]          # токен берём из переменной окружения Railway
 PHOTO_PATH = "photo.jpg"                      # картинка, которую бот отправляет
-WEBAPP_URL = "https://habotlola-gif.github.io/htx/"
+WEBAPP_URL = "https://htx-six.vercel.app/"
 
 # Ваш личный Telegram ID — только у вас будет доступ к команде /post
 # Узнать свой ID можно у бота @userinfobot
